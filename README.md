@@ -60,6 +60,9 @@ The three categories are `bug`, `feature` and `creative`.
   Someone left in a rush and didn't finish the user page. This is now your task and you are
   given free reigns on all design choices. Make it however you want it, be creative.
 
+  If you decide not to do `bug #1`, there is a way to reach the user page by going
+  directly to `/user/1` which will display the user with id `1`.
+
 ## Live demo
 
 Here is a live demo https://mystifying-edison-23da82.netlify.com
